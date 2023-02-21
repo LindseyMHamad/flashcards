@@ -1,0 +1,16 @@
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\bin\Debug\FormsUI.exe.config
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\bin\Debug\FormsUI.exe
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\bin\Debug\FormsUI.pdb
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\bin\Debug\Dapper.Contrib.dll
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\bin\Debug\Dapper.dll
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\bin\Debug\Dapper.xml
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\bin\Debug\Dapper.Contrib.xml
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\obj\Debug\FormsUI.csproj.AssemblyReference.cache
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\obj\Debug\FormsUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\obj\Debug\FormsUI.Dashboard.resources
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\obj\Debug\FormsUI.Properties.Resources.resources
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\obj\Debug\FormsUI.csproj.GenerateResource.cache
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\obj\Debug\FormsUI.csproj.CoreCompileInputs.cache
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\obj\Debug\FormsUI.csproj.CopyComplete
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\obj\Debug\FormsUI.exe
+C:\Users\Lindsey\source\Tutorials\Flashcards1\FormsUI\obj\Debug\FormsUI.pdb
